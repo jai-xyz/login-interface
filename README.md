@@ -4,6 +4,13 @@
 
 This is a simple PHP login and registration system built with HTML, CSS, and a database connection. Users can register for an account and then log in using their email and password.
 
+### Technologies Used:
+
+ - PHP (server-side scripting)
+ - HTML (structure)
+ - CSS (styling)
+ - phpMyAdmin (database)
+
 ### Features:
 
  - User Registration
@@ -11,11 +18,6 @@ This is a simple PHP login and registration system built with HTML, CSS, and a d
  - Basic Error Handling (Empty Fields, Invalid Credentials, Duplicate Email)
  - Session Management (after successful login)
  - Technologies Used:
-
- - PHP (server-side scripting)
- - HTML (structure)
- - CSS (styling)
- - phpMyAdmin (database)
 
 ### Further Development:
 
