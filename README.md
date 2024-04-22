@@ -6,10 +6,9 @@ This is a simple PHP login and registration system built with HTML, CSS, and a d
 
 ### Technologies Used:
 
- - PHP (server-side scripting)
- - HTML (structure)
- - CSS (styling)
- - phpMyAdmin (database)
+ - Frontend: HTML. CSS, JavaScript
+ - Backend: PHP
+ - Database: MySQL (managed by PHPMyAdmin)
 
 ### Features:
 
